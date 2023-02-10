@@ -7,7 +7,7 @@ slurs = ['word1', 'word2', ......, 'wordn']
 
 # read the file containing the tweets into a Pandas DataFrame
 # assuming data is in csv format 
-df = pd.read_csv('tweets.txt', header=None, names=['tweet'])
+df = pd.read_csv('tweets.csv', names=['tweet'])
 
 
 # function to calculate the profanity level of a sentence
