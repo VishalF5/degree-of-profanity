@@ -5,7 +5,7 @@ A profanity checker is a tool that scans text for words or phrases that are cons
 This program scans text for words or phrases that are considered to be offensive or inappropriate, and returns the degree of profanity for each sentence.
 
 ## Requirements :
-- Python 3.x
+- Python 3
 - Pandas library (pandas)
 - Regular expressions library (re)
 
